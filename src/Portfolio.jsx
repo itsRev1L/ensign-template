@@ -1,5 +1,4 @@
 import React from "react";
-import Customer from "./Customer.jsx";
 
 const Portfolio = () => {
   return (
@@ -30,7 +29,6 @@ const Portfolio = () => {
           </div>
         </div>
       </section>
-      <Customer />
     </>
   );
 };
